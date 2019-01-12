@@ -8,3 +8,6 @@ lista.extend(["Gordo","Eve"])
 print(lista[:])
 print(lista.index("Luis"))
 print("Luis" in lista) 
+
+lista.extend(["Luis","Pedro"])
+print(lista[:])
